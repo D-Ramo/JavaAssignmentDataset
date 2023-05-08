@@ -7,3 +7,6 @@ To ensure a well-structured dataset, the tool transforms the file names into a s
 
 ## Result
 ![The final dataset](https://user-images.githubusercontent.com/89030659/236932753-d89ad813-7fc7-4460-960f-0e80a7d0b165.png)
+
+### WIP..
+create a label and train a simple model to classify the data
